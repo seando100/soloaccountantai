@@ -157,7 +157,7 @@ const Benefits = () => {
         <div className="max-w-3xl mx-auto px-6 lg:px-8 text-center">
           <h2 className="text-2xl sm:text-3xl font-bold tracking-tight mb-4">{t('benefits.bottom.title')}</h2>
           <p className="text-lg text-slate-600 leading-relaxed mb-8">{t('benefits.bottom.body')}</p>
-          <p className="text-sm text-slate-400 mb-10">{t('benefits.bottom.tagline')}</p>
+          <p className="text-sm text-slate-500 mb-10">{t('benefits.bottom.tagline')}</p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <Link
               to="/#waitlist"
@@ -173,7 +173,7 @@ const Benefits = () => {
               {t('benefits.bottom.seeFeatures')}
             </Link>
           </div>
-          <p className="mt-3 text-xs text-slate-400">{t('benefits.bottom.trialNote')}</p>
+          <p className="mt-3 text-xs text-slate-500">{t('benefits.bottom.trialNote')}</p>
         </div>
       </section>
     </>
