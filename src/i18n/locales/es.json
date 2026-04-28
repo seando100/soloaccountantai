@@ -5,27 +5,23 @@
   "nav.faq": "Preguntas Frecuentes",
   "nav.blog": "Blog",
   "nav.joinWaitlist": "Unirse a la Lista",
-
   "footer.tagline": "Registro de clientes impulsado por IA para profesionales de la contabilidad.",
   "footer.privacy": "Privacidad",
   "footer.terms": "Términos",
   "footer.contact": "Contacto",
   "footer.copyright": "SoloSolutionsAI. Todos los derechos reservados.",
   "footer.product": "Un Producto de SoloSolutionsAI",
-
   "index.badge": "Registro Contable Impulsado por IA",
   "index.comingSoon": "Próximamente Q3 2026",
   "index.heroTitle": "Su Próximo Registro de Clientes Se Ejecuta Solo.",
   "index.heroSubtitle": "SoloAccountantAI gestiona el registro de clientes por chat, teléfono o widget web — captura cada detalle sobre su situación financiera y necesidades de servicio, y entrega un resumen estructurado de compromiso con notas de contexto de IA — para que usted esté preparado antes de la primera reunión.",
   "index.seeFeatures": "Ver todas las funciones →",
   "index.beFirst": "Sea el primero en saber cuándo lanzamos",
-
   "index.trust.encrypted": "Cifrado y seguro",
   "index.trust.bilingual": "Inglés y Español",
   "index.trust.channels": "Registro por chat, teléfono y widget",
   "index.trust.alerts": "Alertas por correo instantáneas",
   "index.trust.setup": "Configuración en menos de 10 minutos",
-
   "index.pain.title": "¿Le suena familiar?",
   "index.pain.subtitle": "Los contadores independientes pierden tiempo y clientes potenciales por los mismos tres problemas todos los días.",
   "index.pain.item1.title": "La avalancha de la temporada fiscal",
@@ -35,7 +31,6 @@
   "index.pain.item3.title": "Pánico por plazos fuera de horario",
   "index.pain.item3.body": "Un dueño de negocio se da cuenta a las 9pm de que no ha presentado los pagos estimados trimestrales. Buscan contadores, encuentran su sitio web y no tienen forma de explicar su situación. Llaman a la primera firma con servicio de contestación en vivo.",
   "index.pain.bottom": "SoloAccountantAI maneja los tres — automáticamente.",
-
   "index.features.title": "Todo lo que necesita. Nada que no.",
   "index.features.subtitle": "Seis capacidades poderosas que transforman cómo los contadores independientes gestionan nuevos clientes.",
   "index.features.aiIntake.title": "Registro de Clientes por IA",
@@ -51,7 +46,6 @@
   "index.features.marketing.title": "Kit de Marketing",
   "index.features.marketing.body": "Genere publicaciones para redes sociales y tarjetas visuales personalizadas para Facebook, Instagram, LinkedIn y Nextdoor — en segundos.",
   "index.features.learnMore": "Más información",
-
   "index.howItWorks.title": "En funcionamiento en minutos",
   "index.howItWorks.subtitle": "Desde el primer inicio de sesión hasta recibir su primer registro — tres pasos simples.",
   "index.howItWorks.step1.title": "Configure su perfil",
@@ -60,7 +54,6 @@
   "index.howItWorks.step2.desc": "Agréguelo a su sitio web, firma de correo, perfiles sociales o donde se conecte con clientes. Su IA maneja cada conversación — 24/7.",
   "index.howItWorks.step3.title": "Revise y responda",
   "index.howItWorks.step3.desc": "Reciba un resumen estructurado con notas de contexto de IA en el momento en que un cliente envía. Conozca su tipo de entidad, rango de ingresos, necesidades de declaración y las preguntas correctas antes de su primera reunión.",
-
   "index.dualBenefit.title": "Mejor para Usted. Mejor para los Clientes.",
   "index.dualBenefit.subtitle": "Cuando su registro funciona de manera más inteligente, todos ganan — usted recupera su tiempo y los clientes obtienen la experiencia receptiva y preparada que merecen.",
   "index.dualBenefit.forYou": "Para Usted",
@@ -87,7 +80,6 @@
   "index.dualBenefit.step4.clientBody": "De \"necesito un contador\" a una consulta preparada — más rápido de lo que pensaba posible. La sofisticación de una firma grande con la atención personal de un profesional independiente.",
   "index.dualBenefit.tagline": "Las grandes relaciones con clientes comienzan antes de la primera reunión.",
   "index.dualBenefit.seeAll": "Ver todos los beneficios",
-
   "index.pricing.title": "Precios simples y transparentes",
   "index.pricing.subtitle": "Comience gratis por 14 días. Cancele en cualquier momento.",
   "index.pricing.starter": "Inicial",
@@ -117,7 +109,6 @@
   "index.pricing.proPlusFeatures.4": "Disponibilidad 24/7 — nunca pierda una llamada",
   "index.pricing.trialNote": "Todos los planes incluyen una prueba gratuita de 14 días.",
   "index.pricing.comparePlans": "Comparar planes →",
-
   "index.waitlist.title": "Reciba notificación en el lanzamiento",
   "index.waitlist.subtitle": "SoloAccountantAI llega en Q3 2026. Deje su información y le avisaremos en cuanto esté listo.",
   "index.waitlist.nameLabel": "Nombre",
@@ -132,12 +123,10 @@
   "index.waitlist.disclaimer": "Le notificaremos cuando SoloAccountantAI se lance. Sin spam, nunca.",
   "index.waitlist.successTitle": "¡Está en la lista!",
   "index.waitlist.successMessage": "Le notificaremos cuando SoloAccountantAI se lance.",
-
   "index.closing.title": "Su registro funciona mientras usted prepara declaraciones.",
   "index.closing.subtitle": "Deje de perder nuevos clientes por llamadas perdidas y vacíos fuera de horario. Registro por chat, teléfono y documentos — siempre activo, siempre personalizado, siempre listo.",
   "index.closing.viewPricing": "Ver precios →",
   "index.closing.comingSoon": "Próximamente Q3 2026",
-
   "features.pageTitle": "Diseñado para el Contador Independiente",
   "features.pageSubtitle": "Registro por chat, teléfono o widget. Análisis documental por IA. Herramientas de marketing. Todo lo que necesita — sin agregar gastos generales ni contratar personal.",
   "features.aiIntake.title": "Registro Que Se Ejecuta Solo",
@@ -238,7 +227,6 @@
   "features.cta.title": "¿Listo para Transformar Su Firma?",
   "features.cta.subtitle": "Próximamente Q3 2026.",
   "features.cta.viewPricing": "Ver Precios",
-
   "benefits.heroTitle": "Mejor para Usted. Mejor para los Clientes.",
   "benefits.heroSubtitle": "Cuando su registro funciona de manera más inteligente, todos ganan. Usted recupera su tiempo y llega a cada consulta preparado. Sus clientes obtienen la experiencia receptiva y profesional que merecen — desde la primera interacción.",
   "benefits.journey.title": "El Recorrido del Registro",
@@ -305,7 +293,6 @@
   "benefits.bottom.tagline": "Las grandes relaciones con clientes comienzan antes de la primera consulta.",
   "benefits.bottom.seeFeatures": "Ver todas las funciones →",
   "benefits.bottom.trialNote": "Prueba gratuita de 14 días · Cancele en cualquier momento",
-
   "pricing.pageTitle": "Precios Simples y Transparentes",
   "pricing.pageSubtitle": "Comience con la automatización de registro que necesita. Agregue las herramientas de marketing cuando esté listo para crecer.",
   "pricing.starter": "Inicial",
@@ -340,7 +327,6 @@
   "pricing.proPlusFeatures.2": "Los clientes hablan naturalmente con su asistente de IA — 24/7, sin música de espera",
   "pricing.proPlusFeatures.3": "Inteligencia Documental — solicite, reciba y analice documentos financieros con IA",
   "pricing.proPlusFeatures.4": "La IA extrae cifras clave, plazos de declaración, tipos de entidad y oportunidades de deducción",
-  "pricing.proPlusFeatures.5": "Cargas cifradas seguras con retención de 30 días",
   "pricing.proPlusFeatures.6": "Número de teléfono mostrado en materiales del Kit de Marketing",
   "pricing.faq.title": "Preguntas Frecuentes",
   "pricing.faq.q1": "¿Qué incluye la prueba gratuita?",
@@ -355,7 +341,6 @@
   "pricing.faq.a5": "Sí. Cancele desde la configuración de su cuenta. El acceso continúa hasta el final de su período de facturación. Sin cargos por cancelación.",
   "pricing.cta.title": "¿Listo para Comenzar?",
   "pricing.cta.subtitle": "SoloAccountantAI llega en Q3 2026. Únase a la lista de espera para ser el primero.",
-
   "faq.pageTitle": "Preguntas Frecuentes",
   "faq.pageSubtitle": "Todo lo que necesita saber sobre SoloAccountantAI.",
   "faq.section.howItWorks": "Cómo Funciona",
@@ -388,7 +373,6 @@
   "faq.cta.title": "¿Todavía Tiene Preguntas?",
   "faq.cta.subtitle": "Estamos aquí para ayudar.",
   "faq.cta.contactUs": "Contáctenos",
-
   "contact.pageTitle": "Contáctenos",
   "contact.pageSubtitle": "¿Tiene preguntas sobre SoloAccountantAI? Nos encantaría saber de usted. Envíenos un mensaje y responderemos lo antes posible.",
   "contact.emailUs": "Envíenos un Correo",
@@ -409,7 +393,6 @@
   "contact.submit": "Enviar Mensaje",
   "contact.successTitle": "¡Gracias por comunicarse!",
   "contact.successMessage": "Le notificaremos cuando SoloAccountantAI se lance.",
-
   "privacy.title": "Política de Privacidad",
   "privacy.lastUpdated": "Última Actualización: 21 de marzo de 2026",
   "privacy.s1.title": "1. Introducción",
@@ -435,7 +418,19 @@
   "privacy.s3.footer": "Si un cliente voluntariamente proporciona cualquiera de esta información durante una conversación de registro, el sistema detecta el patrón, redacta los datos de la transcripción, no los almacena y redirige la conversación con elegancia. Esta protección opera a nivel de infraestructura, no a nivel de política — lo que significa que el sistema es estructuralmente incapaz de retener estos datos, independientemente de la entrada del usuario.",
   "privacy.s4.title": "4. Cómo Usamos Su Información",
   "privacy.s4.intro": "Usamos la información recopilada para:",
-  "privacy.s4.items": ["Proporcionar, operar y mantener el Servicio", "Procesar envíos de registro de clientes y entregarlos al profesional correspondiente", "Generar resúmenes de registro, notas de contexto e informes de inteligencia impulsados por IA", "Analizar documentos cargados usando IA para producir resúmenes estructurados para el profesional", "Enviar notificaciones por correo electrónico sobre nuevos envíos de registro a profesionales y correos de confirmación a clientes", "Generar contenido de marketing impulsado por IA (publicaciones de blog, textos para redes sociales) a solicitud del profesional", "Sincronizar datos de registro con servicios de terceros (HubSpot, Zapier, webhooks) cuando lo configure el profesional", "Proporcionar funcionalidad de programación de consultas a través de la integración con Calendly", "Monitorear la salud y rendimiento de la plataforma mediante análisis internos", "Mejorar y personalizar el Servicio", "Responder a solicitudes de soporte"],
+  "privacy.s4.items": [
+    "Proporcionar, operar y mantener el Servicio",
+    "Procesar envíos de registro de clientes y entregarlos al profesional correspondiente",
+    "Generar resúmenes de registro, notas de contexto e informes de inteligencia impulsados por IA",
+    "Analizar documentos cargados usando IA para producir resúmenes estructurados para el profesional",
+    "Enviar notificaciones por correo electrónico sobre nuevos envíos de registro a profesionales y correos de confirmación a clientes",
+    "Generar contenido de marketing impulsado por IA (publicaciones de blog, textos para redes sociales) a solicitud del profesional",
+    "Sincronizar datos de registro con servicios de terceros (HubSpot, Zapier, webhooks) cuando lo configure el profesional",
+    "Proporcionar funcionalidad de programación de consultas a través de la integración con Calendly",
+    "Monitorear la salud y rendimiento de la plataforma mediante análisis internos",
+    "Mejorar y personalizar el Servicio",
+    "Responder a solicitudes de soporte"
+  ],
   "privacy.s5.title": "5. Integraciones de Terceros y Compartición de Datos",
   "privacy.s5.intro": "SoloSolutionsAI se integra con servicios de terceros. Los datos se comparten con estos servicios solo cuando lo configura explícitamente el profesional. No vendemos, alquilamos ni compartimos datos de clientes con terceros para sus propios fines de marketing.",
   "privacy.s5.1.title": "5.1 HubSpot CRM",
@@ -452,7 +447,15 @@
   "privacy.s5.6.body": "Usamos Google Analytics 4 para recopilar datos de uso anonimizados en nuestros sitios web de marketing y plataforma. Los datos de análisis no están vinculados a registros individuales de registro de clientes.",
   "privacy.s6.title": "6. Seguridad de Datos",
   "privacy.s6.intro": "Implementamos medidas de seguridad técnicas y organizativas robustas para proteger su información:",
-  "privacy.s6.items": ["Todos los datos están cifrados en tránsito usando TLS 1.2+ y en reposo usando cifrado AES-256", "El acceso a la base de datos está gobernado por políticas de Seguridad a Nivel de Fila (RLS) — los profesionales solo pueden acceder a sus propios datos", "El almacenamiento de documentos de clientes usa buckets privados y cifrados con políticas de acceso controlado", "Ningún empleado, contratista o representante de SoloSolutionsAI ve, lee o revisa datos de registro de clientes o documentos cargados — todo el procesamiento es totalmente automatizado", "Se aplica limitación de tasa de API para prevenir abuso", "Las políticas CORS restringen el acceso solo a dominios autorizados", "Los tokens de integración (HubSpot, Calendly) están cifrados y almacenados de forma segura"],
+  "privacy.s6.items": [
+    "Todos los datos están cifrados en tránsito usando TLS 1.2+ y en reposo usando cifrado AES-256",
+    "El acceso a la base de datos está gobernado por políticas de Seguridad a Nivel de Fila (RLS) — los profesionales solo pueden acceder a sus propios datos",
+    "El almacenamiento de documentos de clientes usa buckets privados y cifrados con políticas de acceso controlado",
+    "Ningún empleado, contratista o representante de SoloSolutionsAI ve, lee o revisa datos de registro de clientes o documentos cargados — todo el procesamiento es totalmente automatizado",
+    "Se aplica limitación de tasa de API para prevenir abuso",
+    "Las políticas CORS restringen el acceso solo a dominios autorizados",
+    "Los tokens de integración (HubSpot, Calendly) están cifrados y almacenados de forma segura"
+  ],
   "privacy.s7.title": "7. Retención de Datos",
   "privacy.s7.professional": "Cuentas profesionales: La información de la cuenta se retiene mientras su cuenta esté activa. Puede solicitar la eliminación de su cuenta en cualquier momento.",
   "privacy.s7.client": "Registros de registro de clientes: Los envíos de registro, transcripciones de conversaciones y resúmenes generados por IA se retienen a menos que el profesional o cliente solicite su eliminación. Los profesionales pueden gestionar y eliminar registros de registro desde su portal de administración.",
@@ -506,7 +509,6 @@
   "privacy.s14.body": "Si tiene preguntas sobre esta Política de Privacidad, desea ejercer sus derechos o tiene inquietudes sobre nuestras prácticas de datos, contáctenos en:",
   "privacy.s14.email": "Correo: privacy@solosolutionsai.com",
   "privacy.s14.address": "SoloSolutionsAI\nDunedin, Florida, Estados Unidos",
-
   "terms.title": "Términos de Servicio",
   "terms.lastUpdated": "Última Actualización: 21 de marzo de 2026",
   "terms.s1.title": "1. Aceptación de Términos",
@@ -515,7 +517,13 @@
   "terms.s2.body": "SoloSolutionsAI proporciona una plataforma de registro y incorporación de clientes impulsada por IA para profesionales independientes y pequeñas empresas en múltiples profesiones. El Servicio incluye: registro conversacional de IA (chat y teléfono), resúmenes e informes de inteligencia generados por IA, notificaciones por correo, gestión de envíos de clientes, carga de documentos y análisis de IA, generación de contenido de marketing (publicaciones de blog, textos para redes sociales, tarjetas visuales), integraciones de terceros (HubSpot CRM, Zapier, webhooks, Calendly) e inserción de widget en sitio web.",
   "terms.s3.title": "3. Registro de Cuenta",
   "terms.s3.intro": "Para usar el Servicio como Profesional, debe:",
-  "terms.s3.items": ["Ser un profesional licenciado, certificado o calificado en su campo (cuando aplique)", "Proporcionar información de registro precisa y completa", "Mantener la seguridad de las credenciales de su cuenta", "Ser responsable de todas las actividades bajo su cuenta", "Actualizar oportunamente su información de cuenta si cambia"],
+  "terms.s3.items": [
+    "Ser un profesional licenciado, certificado o calificado en su campo (cuando aplique)",
+    "Proporcionar información de registro precisa y completa",
+    "Mantener la seguridad de las credenciales de su cuenta",
+    "Ser responsable de todas las actividades bajo su cuenta",
+    "Actualizar oportunamente su información de cuenta si cambia"
+  ],
   "terms.s3.footer": "No puede crear una cuenta en nombre de otra persona o entidad sin su autorización. Nos reservamos el derecho de suspender o terminar cuentas que contengan información falsa o engañosa.",
   "terms.s4.title": "4. Suscripción y Facturación",
   "terms.s4.1.title": "4.1 Planes y Precios",
@@ -528,7 +536,18 @@
   "terms.s4.4.body": "Puede cancelar su suscripción en cualquier momento. Al cancelar, su acceso continúa hasta el final de su período de facturación actual. No se emiten reembolsos prorrateados por períodos de facturación parciales. Puede gestionar su suscripción a través del Portal de Clientes de Stripe accesible desde la configuración de su cuenta.",
   "terms.s5.title": "5. Uso Aceptable",
   "terms.s5.intro": "Usted acepta no:",
-  "terms.s5.items": ["Usar el Servicio para cualquier propósito ilegal o en violación de cualquier ley o regulación aplicable", "Enviar, recopilar o almacenar información que no está autorizado a recopilar", "Intentar evadir los mecanismos de aplicación de límites de datos (ej., recopilar intencionalmente tipos de datos prohibidos como Números de Seguro Social, números de tarjeta de crédito o identificaciones gubernamentales a través de preguntas de registro modificadas)", "Usar el Servicio para enviar spam, comunicaciones no solicitadas o acosar a individuos", "Intentar obtener acceso no autorizado al Servicio, otras cuentas o sistemas relacionados", "Realizar ingeniería inversa, descompilar o desensamblar cualquier parte del Servicio", "Revender, redistribuir o sublicenciar el Servicio sin nuestro consentimiento escrito", "Usar el Servicio de una manera que pueda dañar, deshabilitar o perjudicar nuestra infraestructura", "Usar contenido generado por IA (publicaciones de blog, textos de marketing) de manera engañosa o engañosa", "Presentar falsamente resúmenes o informes de inteligencia generados por IA como su propio análisis profesional"],
+  "terms.s5.items": [
+    "Usar el Servicio para cualquier propósito ilegal o en violación de cualquier ley o regulación aplicable",
+    "Enviar, recopilar o almacenar información que no está autorizado a recopilar",
+    "Intentar evadir los mecanismos de aplicación de límites de datos (ej., recopilar intencionalmente tipos de datos prohibidos como Números de Seguro Social, números de tarjeta de crédito o identificaciones gubernamentales a través de preguntas de registro modificadas)",
+    "Usar el Servicio para enviar spam, comunicaciones no solicitadas o acosar a individuos",
+    "Intentar obtener acceso no autorizado al Servicio, otras cuentas o sistemas relacionados",
+    "Realizar ingeniería inversa, descompilar o desensamblar cualquier parte del Servicio",
+    "Revender, redistribuir o sublicenciar el Servicio sin nuestro consentimiento escrito",
+    "Usar el Servicio de una manera que pueda dañar, deshabilitar o perjudicar nuestra infraestructura",
+    "Usar contenido generado por IA (publicaciones de blog, textos de marketing) de manera engañosa o engañosa",
+    "Presentar falsamente resúmenes o informes de inteligencia generados por IA como su propio análisis profesional"
+  ],
   "terms.s6.title": "6. Divulgación y Limitaciones de IA",
   "terms.s6.1.title": "6.1 Naturaleza de los Servicios de IA",
   "terms.s6.1.body": "SoloSolutionsAI usa inteligencia artificial (impulsada por Anthropic Claude) para realizar conversaciones de registro, generar resúmenes, producir informes de inteligencia, analizar documentos y crear contenido de marketing. El contenido generado por IA se produce algorítmicamente y puede contener errores, omisiones o inexactitudes.",
@@ -540,13 +559,32 @@
   "terms.s6.4.body": "Las publicaciones de blog y contenido de marketing generados a través del Servicio son creados por IA basándose en su profesión, especialidades y ubicación. Usted es responsable de revisar todo el contenido generado en cuanto a precisión, idoneidad y cumplimiento con las regulaciones de publicidad aplicables a su profesión antes de publicar.",
   "terms.s7.title": "7. Descargo de Responsabilidad de Relación Profesional",
   "terms.s7.intro": "IMPORTANTE: SoloSolutionsAI es solo una herramienta de software. El uso de este Servicio no crea una relación profesional-cliente de ningún tipo entre SoloSolutionsAI y el Profesional o el Cliente. Específicamente:",
-  "terms.s7.items": ["Para abogados: El uso del Servicio no crea una relación abogado-cliente. Establecer tal relación es responsabilidad exclusiva del abogado de acuerdo con las reglas de conducta profesional de su jurisdicción.", "Para terapeutas y consejeros: La conversación de registro de IA no constituye una sesión terapéutica, evaluación clínica ni tratamiento. Establecer una relación terapéutica es responsabilidad exclusiva del profesional licenciado.", "Para trabajadores sociales: El proceso de registro no constituye una evaluación de trabajo social, intervención ni actividad de gestión de casos.", "Para profesionales de salud y veterinarios: Los informes de inteligencia generados por IA no constituyen diagnósticos médicos o veterinarios y no deben tratarse como recomendaciones clínicas.", "Para profesionales financieros: El Servicio no proporciona asesoría financiera, fiscal ni de seguros. Todas las determinaciones profesionales son responsabilidad del profesional licenciado.", "Para todas las profesiones: Los clientes que envían información de registro son clientes potenciales del Profesional, no clientes de SoloSolutionsAI. El Profesional es el único responsable de la relación profesional."],
+  "terms.s7.items": [
+    "Para abogados: El uso del Servicio no crea una relación abogado-cliente. Establecer tal relación es responsabilidad exclusiva del abogado de acuerdo con las reglas de conducta profesional de su jurisdicción.",
+    "Para terapeutas y consejeros: La conversación de registro de IA no constituye una sesión terapéutica, evaluación clínica ni tratamiento. Establecer una relación terapéutica es responsabilidad exclusiva del profesional licenciado.",
+    "Para trabajadores sociales: El proceso de registro no constituye una evaluación de trabajo social, intervención ni actividad de gestión de casos.",
+    "Para profesionales de salud y veterinarios: Los informes de inteligencia generados por IA no constituyen diagnósticos médicos o veterinarios y no deben tratarse como recomendaciones clínicas.",
+    "Para profesionales financieros: El Servicio no proporciona asesoría financiera, fiscal ni de seguros. Todas las determinaciones profesionales son responsabilidad del profesional licenciado.",
+    "Para todas las profesiones: Los clientes que envían información de registro son clientes potenciales del Profesional, no clientes de SoloSolutionsAI. El Profesional es el único responsable de la relación profesional."
+  ],
   "terms.s8.title": "8. Integraciones de Terceros",
   "terms.s8.intro": "El Servicio permite a los Profesionales conectar servicios de terceros incluyendo HubSpot, Zapier, Make, endpoints de webhook personalizados y Calendly. Al conectar una integración de terceros:",
-  "terms.s8.items": ["Usted autoriza a SoloSolutionsAI a transmitir datos de registro al servicio conectado según lo configurado", "Usted es el único responsable de la privacidad, seguridad y cumplimiento de los datos una vez que llegan al servicio de terceros", "Usted reconoce que los servicios de terceros se rigen por sus propios términos de servicio y políticas de privacidad", "Usted es responsable de informar a sus clientes que sus datos pueden compartirse con servicios de terceros y obtener cualquier consentimiento requerido", "SoloSolutionsAI no es responsable de violaciones de datos, mal uso o violaciones de políticas por parte de servicios de terceros"],
+  "terms.s8.items": [
+    "Usted autoriza a SoloSolutionsAI a transmitir datos de registro al servicio conectado según lo configurado",
+    "Usted es el único responsable de la privacidad, seguridad y cumplimiento de los datos una vez que llegan al servicio de terceros",
+    "Usted reconoce que los servicios de terceros se rigen por sus propios términos de servicio y políticas de privacidad",
+    "Usted es responsable de informar a sus clientes que sus datos pueden compartirse con servicios de terceros y obtener cualquier consentimiento requerido",
+    "SoloSolutionsAI no es responsable de violaciones de datos, mal uso o violaciones de políticas por parte de servicios de terceros"
+  ],
   "terms.s9.title": "9. Carga de Documentos",
   "terms.s9.intro": "El Servicio permite a los Profesionales solicitar documentos de los Clientes, que los Clientes pueden cargar voluntariamente. Al usar esta función:",
-  "terms.s9.items": ["Análisis de IA: Los documentos cargados son procesados por IA para generar resúmenes estructurados para el Profesional solicitante. Estos resúmenes son solo informativos y no constituyen análisis profesional ni asesoría.", "Sin Revisión Humana: Ningún empleado, contratista o representante de SoloSolutionsAI ve, lee o revisa documentos cargados. Todo el procesamiento es totalmente automatizado.", "Retención Limitada: Los documentos cargados y los resúmenes de IA se eliminan automáticamente 30 días después de la carga. SoloSolutionsAI no es un servicio de almacenamiento de documentos.", "Control de Acceso: Los documentos son accesibles solo para el Profesional que los solicitó. Los documentos están cifrados en tránsito (TLS) y en reposo (AES-256).", "Derechos de Eliminación: Los clientes pueden solicitar la eliminación inmediata de documentos cargados en cualquier momento contactando a privacy@solosolutionsai.com."],
+  "terms.s9.items": [
+    "Análisis de IA: Los documentos cargados son procesados por IA para generar resúmenes estructurados para el Profesional solicitante. Estos resúmenes son solo informativos y no constituyen análisis profesional ni asesoría.",
+    "Sin Revisión Humana: Ningún empleado, contratista o representante de SoloSolutionsAI ve, lee o revisa documentos cargados. Todo el procesamiento es totalmente automatizado.",
+    "Retención Limitada: Los documentos cargados y los resúmenes de IA se eliminan automáticamente 30 días después de la carga. SoloSolutionsAI no es un servicio de almacenamiento de documentos.",
+    "Control de Acceso: Los documentos son accesibles solo para el Profesional que los solicitó. Los documentos están cifrados en tránsito (TLS) y en reposo (AES-256).",
+    "Derechos de Eliminación: Los clientes pueden solicitar la eliminación inmediata de documentos cargados en cualquier momento contactando a privacy@solosolutionsai.com."
+  ],
   "terms.s9.footer": "Responsabilidad Profesional: Los profesionales son responsables de asegurar que solicitar, recibir y almacenar documentos de clientes cumpla con todas las reglas de conducta profesional, obligaciones de confidencialidad y leyes de protección de datos aplicables en su jurisdicción.",
   "terms.s10.title": "10. Propiedad de Datos",
   "terms.s10.p1": "Usted retiene la propiedad de todos los datos que ingresa en el Servicio. Al usar el Servicio, nos otorga una licencia limitada y no exclusiva para procesar sus datos únicamente para proporcionar, mantener y mejorar el Servicio. No reclamamos propiedad sobre sus datos de registro, documentos o contenido generado.",
@@ -576,11 +614,9 @@
   "terms.s18.body": "¿Preguntas sobre estos Términos? Contáctenos en:",
   "terms.s18.email": "Correo: legal@solosolutionsai.com",
   "terms.s18.address": "SoloSolutionsAI\nDunedin, Florida, Estados Unidos",
-
   "notFound.title": "404",
   "notFound.message": "¡Ups! Página no encontrada",
   "notFound.link": "Volver al Inicio",
-
   "blog.pageTitle": "Blog",
   "blog.pageSubtitle": "Información sobre IA, incorporación de clientes, generación de oportunidades y crecimiento de su firma.",
   "blog.readMore": "Leer más",

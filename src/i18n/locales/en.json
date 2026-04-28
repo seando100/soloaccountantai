@@ -5,27 +5,23 @@
   "nav.faq": "FAQ",
   "nav.blog": "Blog",
   "nav.joinWaitlist": "Join the Waitlist",
-
   "footer.tagline": "AI-powered client intake for accounting professionals.",
   "footer.privacy": "Privacy",
   "footer.terms": "Terms",
   "footer.contact": "Contact",
   "footer.copyright": "SoloSolutionsAI. All rights reserved.",
   "footer.product": "A SoloSolutionsAI Product",
-
   "index.badge": "AI-Powered Accounting Intake",
   "index.comingSoon": "Coming Q3 2026",
   "index.heroTitle": "Your Next Client Intake Runs Itself.",
   "index.heroSubtitle": "SoloAccountantAI handles client intake by chat, phone, or website widget — captures every detail about their financial situation and service needs, and delivers a structured engagement summary with AI context notes — so you're prepared before the first meeting.",
   "index.seeFeatures": "See all features →",
   "index.beFirst": "Be the first to know when we launch",
-
   "index.trust.encrypted": "Encrypted & secure",
   "index.trust.bilingual": "English & Spanish",
   "index.trust.channels": "Chat, phone & widget intake",
   "index.trust.alerts": "Instant email alerts",
   "index.trust.setup": "Setup in under 10 minutes",
-
   "index.pain.title": "Sound familiar?",
   "index.pain.subtitle": "Solo accountants lose time and prospective clients to the same three problems every day.",
   "index.pain.item1.title": "Tax season paper chase",
@@ -35,7 +31,6 @@
   "index.pain.item3.title": "After-hours deadline panic",
   "index.pain.item3.body": "A business owner realizes at 9pm they haven't filed quarterly estimates. They search for accountants, find your website, and have no way to explain their situation. They call the first firm with a live answering service instead.",
   "index.pain.bottom": "SoloAccountantAI handles all three — automatically.",
-
   "index.features.title": "Everything you need. Nothing you don't.",
   "index.features.subtitle": "Six powerful capabilities that transform how solo accountants manage new clients.",
   "index.features.aiIntake.title": "AI Client Intake",
@@ -51,7 +46,6 @@
   "index.features.marketing.title": "Marketing Kit",
   "index.features.marketing.body": "Generate platform-ready social posts and branded visual cards for Facebook, Instagram, LinkedIn, and Nextdoor — in seconds.",
   "index.features.learnMore": "Learn more",
-
   "index.howItWorks.title": "Up and running in minutes",
   "index.howItWorks.subtitle": "From first login to receiving your first intake — three simple steps.",
   "index.howItWorks.step1.title": "Set up your profile",
@@ -60,7 +54,6 @@
   "index.howItWorks.step2.desc": "Add it to your website, email signature, social profiles, or anywhere you connect with clients. Your AI handles every conversation — 24/7.",
   "index.howItWorks.step3.title": "Review and respond",
   "index.howItWorks.step3.desc": "Get a structured summary with AI context notes the moment a client submits. Know their entity type, revenue range, filing needs, and the right questions before your first meeting.",
-
   "index.dualBenefit.title": "Better for You. Better for Clients.",
   "index.dualBenefit.subtitle": "When your intake runs smarter, everyone wins — you reclaim your time, and clients get the responsive, prepared experience they deserve.",
   "index.dualBenefit.forYou": "For You",
@@ -87,7 +80,6 @@
   "index.dualBenefit.step4.clientBody": "From \"I need an accountant\" to a prepared consultation — faster than you thought possible. The sophistication of a large firm with the personal attention of a solo practitioner.",
   "index.dualBenefit.tagline": "Great client relationships start before the first meeting.",
   "index.dualBenefit.seeAll": "See all benefits",
-
   "index.pricing.title": "Simple, transparent pricing",
   "index.pricing.subtitle": "Start free for 14 days. Cancel anytime.",
   "index.pricing.starter": "Starter",
@@ -117,7 +109,6 @@
   "index.pricing.proPlusFeatures.4": "24/7 availability — never miss a call",
   "index.pricing.trialNote": "All plans include a 14-day free trial.",
   "index.pricing.comparePlans": "Compare plans →",
-
   "index.waitlist.title": "Get notified at launch",
   "index.waitlist.subtitle": "SoloAccountantAI is coming Q3 2026. Leave your info and we'll let you know the moment it's ready.",
   "index.waitlist.nameLabel": "Name",
@@ -132,12 +123,10 @@
   "index.waitlist.disclaimer": "We'll notify you when SoloAccountantAI launches. No spam, ever.",
   "index.waitlist.successTitle": "You're on the list!",
   "index.waitlist.successMessage": "We'll notify you when SoloAccountantAI launches.",
-
   "index.closing.title": "Your intake runs while you're preparing returns.",
   "index.closing.subtitle": "Stop losing new clients to missed calls and after-hours gaps. Chat, phone, and document intake — always on, always branded, always ready.",
   "index.closing.viewPricing": "View pricing →",
   "index.closing.comingSoon": "Coming Q3 2026",
-
   "features.pageTitle": "Built for the Solo Accountant",
   "features.pageSubtitle": "Intake by chat, phone, or widget. AI document analysis. Marketing tools. Everything you need — without adding overhead or hiring staff.",
   "features.aiIntake.title": "Intake That Runs Itself",
@@ -238,7 +227,6 @@
   "features.cta.title": "Ready to Transform Your Practice?",
   "features.cta.subtitle": "Coming Q3 2026.",
   "features.cta.viewPricing": "View Pricing",
-
   "benefits.heroTitle": "Better for You. Better for Clients.",
   "benefits.heroSubtitle": "When your intake runs smarter, everyone wins. You reclaim your time and walk into every consultation prepared. Your clients get the responsive, professional experience they deserve — from the very first interaction.",
   "benefits.journey.title": "The Intake Journey",
@@ -305,7 +293,6 @@
   "benefits.bottom.tagline": "Great client relationships start before the first consultation.",
   "benefits.bottom.seeFeatures": "See all features →",
   "benefits.bottom.trialNote": "14-day free trial · Cancel anytime",
-
   "pricing.pageTitle": "Simple, Transparent Pricing",
   "pricing.pageSubtitle": "Start with the intake automation you need. Add the marketing tools when you're ready to grow.",
   "pricing.starter": "Starter",
@@ -340,7 +327,6 @@
   "pricing.proPlusFeatures.2": "Clients speak naturally with your AI assistant — 24/7, no hold music",
   "pricing.proPlusFeatures.3": "Document Intelligence — request, receive, and AI-analyze financial documents",
   "pricing.proPlusFeatures.4": "AI extracts key figures, filing deadlines, entity types, and deduction opportunities",
-  "pricing.proPlusFeatures.5": "Secure encrypted uploads with 30-day retention",
   "pricing.proPlusFeatures.6": "Phone number displayed in Marketing Kit materials",
   "pricing.faq.title": "Frequently Asked Questions",
   "pricing.faq.q1": "What's included in the free trial?",
@@ -355,7 +341,6 @@
   "pricing.faq.a5": "Yes. Cancel from your account settings. Access continues through the end of your billing period. No cancellation fees.",
   "pricing.cta.title": "Ready to Get Started?",
   "pricing.cta.subtitle": "SoloAccountantAI is coming Q3 2026. Join the waitlist to be first in line.",
-
   "faq.pageTitle": "Frequently Asked Questions",
   "faq.pageSubtitle": "Everything you need to know about SoloAccountantAI.",
   "faq.section.howItWorks": "How It Works",
@@ -388,7 +373,6 @@
   "faq.cta.title": "Still Have Questions?",
   "faq.cta.subtitle": "We're here to help.",
   "faq.cta.contactUs": "Contact Us",
-
   "contact.pageTitle": "Get In Touch",
   "contact.pageSubtitle": "Have questions about SoloAccountantAI? We'd love to hear from you. Send us a message and we'll respond as soon as possible.",
   "contact.emailUs": "Email Us",
@@ -409,7 +393,6 @@
   "contact.submit": "Send Message",
   "contact.successTitle": "Thanks for reaching out!",
   "contact.successMessage": "We'll notify you when SoloAccountantAI launches.",
-
   "privacy.title": "Privacy Policy",
   "privacy.lastUpdated": "Last Updated: March 21, 2026",
   "privacy.s1.title": "1. Introduction",
@@ -435,7 +418,19 @@
   "privacy.s3.footer": "If a client volunteers any of this information during an intake conversation, the system detects the pattern, redacts the data from the transcript, does not store it, and gracefully redirects the conversation. This protection operates at the infrastructure level, not the policy level — meaning the system is structurally incapable of retaining this data, regardless of user input.",
   "privacy.s4.title": "4. How We Use Your Information",
   "privacy.s4.intro": "We use collected information to:",
-  "privacy.s4.items": ["Provide, operate, and maintain the Service", "Process client intake submissions and deliver them to the appropriate professional", "Generate AI-powered intake summaries, context notes, and intelligence briefs", "Analyze uploaded documents using AI to produce structured summaries for the professional", "Send email notifications about new intake submissions to professionals and confirmation emails to clients", "Generate AI-powered marketing content (blog posts, social media copy) at the professional's request", "Sync intake data to third-party services (HubSpot, Zapier, webhooks) when configured by the professional", "Provide consultation scheduling functionality via Calendly integration", "Monitor platform health and performance via internal analytics", "Improve and personalize the Service", "Respond to support requests"],
+  "privacy.s4.items": [
+    "Provide, operate, and maintain the Service",
+    "Process client intake submissions and deliver them to the appropriate professional",
+    "Generate AI-powered intake summaries, context notes, and intelligence briefs",
+    "Analyze uploaded documents using AI to produce structured summaries for the professional",
+    "Send email notifications about new intake submissions to professionals and confirmation emails to clients",
+    "Generate AI-powered marketing content (blog posts, social media copy) at the professional's request",
+    "Sync intake data to third-party services (HubSpot, Zapier, webhooks) when configured by the professional",
+    "Provide consultation scheduling functionality via Calendly integration",
+    "Monitor platform health and performance via internal analytics",
+    "Improve and personalize the Service",
+    "Respond to support requests"
+  ],
   "privacy.s5.title": "5. Third-Party Integrations and Data Sharing",
   "privacy.s5.intro": "SoloSolutionsAI integrates with third-party services. Data is shared with these services only when explicitly configured by the professional. We do not sell, rent, or share client data with third parties for their own marketing purposes.",
   "privacy.s5.1.title": "5.1 HubSpot CRM",
@@ -452,7 +447,15 @@
   "privacy.s5.6.body": "We use Google Analytics 4 to collect anonymized usage data on our marketing websites and platform. Analytics data is not linked to individual client intake records.",
   "privacy.s6.title": "6. Data Security",
   "privacy.s6.intro": "We implement robust technical and organizational security measures to protect your information:",
-  "privacy.s6.items": ["All data is encrypted in transit using TLS 1.2+ and at rest using AES-256 encryption", "Database access is governed by Row Level Security (RLS) policies — professionals can only access their own data", "Client document storage uses private, encrypted buckets with access-controlled policies", "No employee, contractor, or representative of SoloSolutionsAI views, reads, or reviews client intake data or uploaded documents — all processing is fully automated", "API rate limiting is enforced to prevent abuse", "CORS policies restrict access to authorized domains only", "Integration tokens (HubSpot, Calendly) are encrypted and stored securely"],
+  "privacy.s6.items": [
+    "All data is encrypted in transit using TLS 1.2+ and at rest using AES-256 encryption",
+    "Database access is governed by Row Level Security (RLS) policies — professionals can only access their own data",
+    "Client document storage uses private, encrypted buckets with access-controlled policies",
+    "No employee, contractor, or representative of SoloSolutionsAI views, reads, or reviews client intake data or uploaded documents — all processing is fully automated",
+    "API rate limiting is enforced to prevent abuse",
+    "CORS policies restrict access to authorized domains only",
+    "Integration tokens (HubSpot, Calendly) are encrypted and stored securely"
+  ],
   "privacy.s7.title": "7. Data Retention",
   "privacy.s7.professional": "Professional accounts: Account information is retained for as long as your account is active. You may request account deletion at any time.",
   "privacy.s7.client": "Client intake records: Intake submissions, conversation transcripts, and AI-generated summaries are retained unless the professional or client requests deletion. Professionals can manage and delete intake records from their admin portal.",
@@ -506,7 +509,6 @@
   "privacy.s14.body": "If you have questions about this Privacy Policy, wish to exercise your rights, or have concerns about our data practices, please contact us at:",
   "privacy.s14.email": "Email: privacy@solosolutionsai.com",
   "privacy.s14.address": "SoloSolutionsAI\nDunedin, Florida, United States",
-
   "terms.title": "Terms of Service",
   "terms.lastUpdated": "Last Updated: March 21, 2026",
   "terms.s1.title": "1. Acceptance of Terms",
@@ -515,7 +517,13 @@
   "terms.s2.body": "SoloSolutionsAI provides an AI-powered client intake and onboarding platform for solo practitioners and small businesses across multiple professions. The Service includes: conversational AI intake (chat and phone), AI-generated summaries and intelligence briefs, email notifications, client submission management, document upload and AI analysis, marketing content generation (blog posts, social media copy, visual cards), third-party integrations (HubSpot CRM, Zapier, webhooks, Calendly), and website widget embedding.",
   "terms.s3.title": "3. Account Registration",
   "terms.s3.intro": "To use the Service as a Professional, you must:",
-  "terms.s3.items": ["Be a licensed, certified, or qualified professional in your field (where applicable)", "Provide accurate and complete registration information", "Maintain the security of your account credentials", "Be responsible for all activities under your account", "Promptly update your account information if it changes"],
+  "terms.s3.items": [
+    "Be a licensed, certified, or qualified professional in your field (where applicable)",
+    "Provide accurate and complete registration information",
+    "Maintain the security of your account credentials",
+    "Be responsible for all activities under your account",
+    "Promptly update your account information if it changes"
+  ],
   "terms.s3.footer": "You may not create an account on behalf of another person or entity without their authorization. We reserve the right to suspend or terminate accounts that contain false or misleading information.",
   "terms.s4.title": "4. Subscription and Billing",
   "terms.s4.1.title": "4.1 Plans and Pricing",
@@ -528,7 +536,18 @@
   "terms.s4.4.body": "You may cancel your subscription at any time. Upon cancellation, your access continues through the end of your current billing period. No prorated refunds are issued for partial billing periods. You may manage your subscription through the Stripe Customer Portal accessible from your account settings.",
   "terms.s5.title": "5. Acceptable Use",
   "terms.s5.intro": "You agree not to:",
-  "terms.s5.items": ["Use the Service for any illegal purpose or in violation of any applicable laws or regulations", "Submit, collect, or store information that you are not authorized to collect", "Attempt to circumvent data boundary enforcement mechanisms (e.g., intentionally collecting prohibited data types such as Social Security Numbers, credit card numbers, or government IDs through modified intake questions)", "Use the Service to send spam, unsolicited communications, or harass individuals", "Attempt to gain unauthorized access to the Service, other accounts, or related systems", "Reverse engineer, decompile, or disassemble any part of the Service", "Resell, redistribute, or sublicense the Service without our written consent", "Use the Service in a manner that could damage, disable, or impair our infrastructure", "Use AI-generated content (blog posts, marketing copy) in a misleading or deceptive manner", "Misrepresent AI-generated summaries or intelligence briefs as your own professional analysis"],
+  "terms.s5.items": [
+    "Use the Service for any illegal purpose or in violation of any applicable laws or regulations",
+    "Submit, collect, or store information that you are not authorized to collect",
+    "Attempt to circumvent data boundary enforcement mechanisms (e.g., intentionally collecting prohibited data types such as Social Security Numbers, credit card numbers, or government IDs through modified intake questions)",
+    "Use the Service to send spam, unsolicited communications, or harass individuals",
+    "Attempt to gain unauthorized access to the Service, other accounts, or related systems",
+    "Reverse engineer, decompile, or disassemble any part of the Service",
+    "Resell, redistribute, or sublicense the Service without our written consent",
+    "Use the Service in a manner that could damage, disable, or impair our infrastructure",
+    "Use AI-generated content (blog posts, marketing copy) in a misleading or deceptive manner",
+    "Misrepresent AI-generated summaries or intelligence briefs as your own professional analysis"
+  ],
   "terms.s6.title": "6. AI Disclosure and Limitations",
   "terms.s6.1.title": "6.1 Nature of AI Services",
   "terms.s6.1.body": "SoloSolutionsAI uses artificial intelligence (powered by Anthropic Claude) to conduct intake conversations, generate summaries, produce intelligence briefs, analyze documents, and create marketing content. AI-generated content is produced algorithmically and may contain errors, omissions, or inaccuracies.",
@@ -540,13 +559,32 @@
   "terms.s6.4.body": "Blog posts and marketing content generated through the Service are created by AI based on your profession, specialties, and location. You are responsible for reviewing all generated content for accuracy, appropriateness, and compliance with advertising regulations applicable to your profession before publishing.",
   "terms.s7.title": "7. Professional Relationship Disclaimer",
   "terms.s7.intro": "IMPORTANT: SoloSolutionsAI is a software tool only. Use of this Service does not create a professional-client relationship of any kind between SoloSolutionsAI and either the Professional or the Client. Specifically:",
-  "terms.s7.items": ["For attorneys: Use of the Service does not create an attorney-client relationship. Establishing such a relationship is the sole responsibility of the attorney in accordance with their jurisdiction's rules of professional conduct.", "For therapists and counselors: The AI intake conversation does not constitute a therapeutic session, clinical assessment, or treatment. Establishing a therapeutic relationship is the sole responsibility of the licensed professional.", "For social workers: The intake process does not constitute a social work assessment, intervention, or case management activity.", "For healthcare and veterinary professionals: AI-generated intelligence briefs do not constitute medical or veterinary diagnoses, and should not be treated as clinical recommendations.", "For financial professionals: The Service does not provide financial, tax, or insurance advice. All professional determinations are the responsibility of the licensed professional.", "For all professions: Clients submitting intake information are prospective clients of the Professional, not clients of SoloSolutionsAI. The Professional is solely responsible for the professional relationship."],
+  "terms.s7.items": [
+    "For attorneys: Use of the Service does not create an attorney-client relationship. Establishing such a relationship is the sole responsibility of the attorney in accordance with their jurisdiction's rules of professional conduct.",
+    "For therapists and counselors: The AI intake conversation does not constitute a therapeutic session, clinical assessment, or treatment. Establishing a therapeutic relationship is the sole responsibility of the licensed professional.",
+    "For social workers: The intake process does not constitute a social work assessment, intervention, or case management activity.",
+    "For healthcare and veterinary professionals: AI-generated intelligence briefs do not constitute medical or veterinary diagnoses, and should not be treated as clinical recommendations.",
+    "For financial professionals: The Service does not provide financial, tax, or insurance advice. All professional determinations are the responsibility of the licensed professional.",
+    "For all professions: Clients submitting intake information are prospective clients of the Professional, not clients of SoloSolutionsAI. The Professional is solely responsible for the professional relationship."
+  ],
   "terms.s8.title": "8. Third-Party Integrations",
   "terms.s8.intro": "The Service allows Professionals to connect third-party services including HubSpot, Zapier, Make, custom webhook endpoints, and Calendly. By connecting a third-party integration:",
-  "terms.s8.items": ["You authorize SoloSolutionsAI to transmit intake data to the connected service as configured", "You are solely responsible for the privacy, security, and compliance of data once it reaches the third-party service", "You acknowledge that third-party services are governed by their own terms of service and privacy policies", "You are responsible for informing your clients that their data may be shared with third-party services and obtaining any required consent", "SoloSolutionsAI is not liable for data breaches, misuse, or policy violations by third-party services"],
+  "terms.s8.items": [
+    "You authorize SoloSolutionsAI to transmit intake data to the connected service as configured",
+    "You are solely responsible for the privacy, security, and compliance of data once it reaches the third-party service",
+    "You acknowledge that third-party services are governed by their own terms of service and privacy policies",
+    "You are responsible for informing your clients that their data may be shared with third-party services and obtaining any required consent",
+    "SoloSolutionsAI is not liable for data breaches, misuse, or policy violations by third-party services"
+  ],
   "terms.s9.title": "9. Document Uploads",
   "terms.s9.intro": "The Service allows Professionals to request documents from Clients, which Clients may upload voluntarily. By using this feature:",
-  "terms.s9.items": ["AI Analysis: Uploaded documents are processed by AI to generate structured summaries for the requesting Professional. These summaries are informational only and do not constitute professional analysis or advice.", "No Human Review: No employee, contractor, or representative of SoloSolutionsAI views, reads, or reviews uploaded documents. All processing is fully automated.", "Limited Retention: Uploaded documents and AI summaries are automatically deleted 30 days after upload. SoloSolutionsAI is not a document storage service.", "Access Control: Documents are accessible only to the Professional who requested them. Documents are encrypted in transit (TLS) and at rest (AES-256).", "Deletion Rights: Clients may request immediate deletion of uploaded documents at any time by contacting privacy@solosolutionsai.com."],
+  "terms.s9.items": [
+    "AI Analysis: Uploaded documents are processed by AI to generate structured summaries for the requesting Professional. These summaries are informational only and do not constitute professional analysis or advice.",
+    "No Human Review: No employee, contractor, or representative of SoloSolutionsAI views, reads, or reviews uploaded documents. All processing is fully automated.",
+    "Limited Retention: Uploaded documents and AI summaries are automatically deleted 30 days after upload. SoloSolutionsAI is not a document storage service.",
+    "Access Control: Documents are accessible only to the Professional who requested them. Documents are encrypted in transit (TLS) and at rest (AES-256).",
+    "Deletion Rights: Clients may request immediate deletion of uploaded documents at any time by contacting privacy@solosolutionsai.com."
+  ],
   "terms.s9.footer": "Professional Responsibility: Professionals are responsible for ensuring that requesting, receiving, and storing client documents complies with all applicable professional conduct rules, confidentiality obligations, and data protection laws in their jurisdiction.",
   "terms.s10.title": "10. Data Ownership",
   "terms.s10.p1": "You retain ownership of all data you input into the Service. By using the Service, you grant us a limited, non-exclusive license to process your data solely to provide, maintain, and improve the Service. We do not claim ownership of your intake data, documents, or generated content.",
@@ -576,11 +614,9 @@
   "terms.s18.body": "Questions about these Terms? Contact us at:",
   "terms.s18.email": "Email: legal@solosolutionsai.com",
   "terms.s18.address": "SoloSolutionsAI\nDunedin, Florida, United States",
-
   "notFound.title": "404",
   "notFound.message": "Oops! Page not found",
   "notFound.link": "Return to Home",
-
   "blog.pageTitle": "Blog",
   "blog.pageSubtitle": "Insights on AI, client onboarding, lead generation, and growing your practice.",
   "blog.readMore": "Read more",
